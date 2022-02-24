@@ -4,6 +4,9 @@ header{
    height: 200px;
    border: 2px solid #846100;
    text-align: center;
+   margin: auto;
+   margin-top: 50%;
+   transform: translateY(-50%);
 }
 
 header span{
